@@ -9,7 +9,7 @@
 <!-- Presentation -->
 
 <p>
-  Olá! 👋 Me chamo João Ribeiro! Sou um desenvolvedor backend, especializado em aproveitar frameworks como Nest.js para desenvolvimento.
+  Olá! 👋 Me chamo João Ribeiro! Sou um desenvolvedor backend, especializado em aproveitar frameworks como Nest.js e Node.js para desenvolvimento.
 
   - 🌱 Atualmente estou focado em aprimorar minhas habilidades em desenvolvimento de software e em aprendizado contínuo para me manter atualizado com as práticas de programação.
 
