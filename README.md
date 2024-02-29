@@ -7,6 +7,7 @@
 
 
 <!-- Presentation -->
+
 <p>
   Olá! 👋 Me chamo João Ribeiro! Sou um desenvolvedor backend, especializado em aproveitar frameworks como Nest.js para desenvolvimento.
 
@@ -41,9 +42,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeirosl&theme=dark)](https://github.com/joaoribeirosl/github-readme-stats)
 
 <!-- GIF -->
+
 <p align="left">
-  <img align="center" src="https://github.com/joaoribeirosl/joaoribeirosl/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img align="center" src="https://github.com/joaoribeirosl/joaoribeirosl/assets/58136908/8acc8d12-881f-4b7e-b1f8-e80f0d4c2842" alt="Imagem" style="max-width: 50px; height: auto;">
 </p>
+
+
 
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
