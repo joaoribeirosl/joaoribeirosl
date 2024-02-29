@@ -20,7 +20,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 24 anos de idade e atualmente moro em Recife-PE. além de desenvolver APIs, também tenho alguma experiência com modelagem de dados e gerenciamento de banco de dados.
+  - 💬 Tenho 24 anos de idade e atualmente moro em Recife-PE. Além de desenvolver APIs, também tenho alguma experiência com modelagem de dados e gerenciamento de banco de dados.
 
   - ⚡ Além do desenvolvimento de software, adoro ver filmes e jogar nas horas vagas.
 </details> 
