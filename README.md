@@ -48,7 +48,7 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
   
 ## ✉️ Contato
 
-joaoribeiroslira@gmail.com
+- joaoribeiroslira@gmail.com
  <br>
  <br>
 </p>
