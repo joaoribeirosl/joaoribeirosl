@@ -72,14 +72,6 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaoribeirosl&theme=dracula&layout=compact)
 
 
-<!-- GIF -->
-
-<p align="left">
-  <img align="center" src="https://github.com/joaoribeirosl/joaoribeirosl/assets/58136908/8acc8d12-881f-4b7e-b1f8-e80f0d4c2842" alt="Imagem" style="max-width: 50px; height: auto;">
-</p>
-
-
-
 ## 🔥 Skills
 <!-- Skills: Programming Languages -->
   <div style="flex-basis: 48%;">
@@ -125,3 +117,11 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
     <img align="center" alt="ROS" src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ROS&logoColor=white">
     <img align="center" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
   </div>
+<br>
+<br>
+
+<!-- GIF -->
+
+<p align="left">
+  <img align="center" src="https://github.com/joaoribeirosl/joaoribeirosl/assets/58136908/8acc8d12-881f-4b7e-b1f8-e80f0d4c2842" alt="Imagem" style="max-width: 50px; height: auto;">
+</p>
