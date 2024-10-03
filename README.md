@@ -122,7 +122,7 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
 
 
   
-![Snake animation](https://github.com/joaoribeirosl/joaoribeirosl/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joaoribeirosl/joaoribeirosl/blob/output/github-contribution-grid-snake.gif)
 
 <!-- GIF -->
 
