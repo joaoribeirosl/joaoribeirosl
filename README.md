@@ -51,6 +51,7 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
 - joaoribeiroslira@gmail.com
  <br>
  <br>
+ ![Snake animation](https://github.com/joaoribeirosl/joaoribeirosl/blob/output/github-contribution-grid-snake.svg)
 </p>
 
     
@@ -120,7 +121,8 @@ Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus c
 <br>
 <br>
 
-![Snake animation](https://github.com/joaoribeirosl/joaoribeirosl/blob/output/github-contribution-grid-snake.svg)
+
+  
 
 <!-- GIF -->
 
