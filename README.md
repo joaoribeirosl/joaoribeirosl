@@ -29,13 +29,12 @@
 Estou focado em:
 - Aprimorar minhas habilidades em **desenvolvimento de software**.
 - Aprofundar meus conhecimentos em **Flutter** para me tornar um desenvolvedor full-stack.
-- Me atualizar com as melhores práticas e novas tendências de **programação**.
   <br>
   <br>
 
 ## 🎯 Objetivo
 
-Estou em busca de novas oportunidades profissionais onde eu possa aplicar meus conhecimentos. 
+Estou em busca de novas oportunidades profissionais. 
 <br>
 <br>
 
