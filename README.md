@@ -12,7 +12,7 @@
   
   ## 👋 Sobre Mim
 
-  Olá! Me chamo João Ribeiro, sou um desenvolvedor de software com 24 anos de idade. Atualmente moro em Recife-PE.
+  Olá! Me chamo João Ribeiro, sou um desenvolvedor de software com 25 anos de idade. Atualmente moro em Recife-PE.
   <br>
   <br>
 
