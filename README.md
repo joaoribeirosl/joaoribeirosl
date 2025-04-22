@@ -19,7 +19,7 @@
   <br>
   <br>
 
-  ## 💻 Minha Experiência
+  ## 💻 My Experience
 
 - **Backend**: I have experience in backend development, especially with **Nest.js**. I also have solid knowledge in data modeling and database management.
 
