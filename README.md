@@ -9,8 +9,8 @@
 <!-- Presentation -->
 
 <p>
-  
-  ## 👋 About Me
+  ![](https://komarev.com/ghpvc/?username=joaoribeirosl&color=ff69b4)
+  ## 👋 About Me 
 
   Hi! My name is João Ribeiro, I'm a 25-year-old software developer currently living in Recife, Brazil.
   <br>
