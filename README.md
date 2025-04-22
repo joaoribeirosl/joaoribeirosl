@@ -5,11 +5,21 @@
     <summary><h1 style="display: inline-block">Hello World!</h1></summary>
 </div>
 
+<div id="user-content-toc">
+  <ul align="left">
+    <summary>
+      <h2 style="display: inline-block">
+        Hello World!
+        <a href="https://github.com/joaoribeirosl/"><img src="https://komarev.com/ghpvc/?username=joaoribeirosl" alt="joaoribeirosl" /></a>
+      </h2>
+    </summary>
+  </ul>
+</div>
 
 <!-- Presentation -->
 
 <p>
-  ![](https://komarev.com/ghpvc/?username=joaoribeirosl&color=ff69b4)
+  
   ## 👋 About Me 
 
   Hi! My name is João Ribeiro, I'm a 25-year-old software developer currently living in Recife, Brazil.
