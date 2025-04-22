@@ -39,7 +39,6 @@ I'm focused on:
 
 - I'm looking for new professional opportunities.
 <br>
-<br>
 
 ## ⚡ Fun Facts
 
