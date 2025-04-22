@@ -10,42 +10,42 @@
 
 <p>
   
-  ## 👋 Sobre Mim
+  ## 👋 About Me
 
-  Olá! Me chamo João Ribeiro, sou um desenvolvedor de software com 25 anos de idade. Atualmente moro em Recife-PE.
+  Hi! My name is João Ribeiro, I'm a 25-year-old software developer currently living in Recife, Brazil.
   <br>
   <br>
 
   ## 💻 Minha Experiência
 
-- **Backend**: Tenho experiência no desenvolvimento backend, especialmente com **Nest.js**. Além se possuir conhecimentos em modelagem de dados e gerenciamento de banco de dados.
+- **Backend**: I have experience in backend development, especially with **Nest.js**. I also have solid knowledge in data modeling and database management.
 
-- **Frontend**: Comecei a expandir meus conhecimentos para o **desenvolvimento frontend com Flutter** utilizando os conceitos do clean dart.
+- **Frontend**: Recently, I've been expanding my skill set to include frontend development using **Flutter**, following clean Dart architecture principles.
   <br>
   <br>
 
- ## 🌱 Atualmente
+ ## 🌱 Currently
 
-Estou focado em:
-- Aprimorar minhas habilidades em **desenvolvimento de software**.
-- Aprofundar meus conhecimentos em **Flutter** para me tornar um desenvolvedor full-stack.
+I'm focused on:
+- Improving my software development skills.
+- Deepening my knowledge in Flutter to become a full-stack developer.
   <br>
   <br>
 
-## 🎯 Objetivo
+## 🎯 Goal
 
-Estou em busca de novas oportunidades profissionais. 
+I'm looking for new professional opportunities.
 <br>
 <br>
 
-## ⚡ Curiosidades
+## ⚡ Fun Facts
 
-- 💬 Embora eu resida em Recife-PE, estou totalmente disponível para mudanças.
+- 💬 Although I'm based in Recife, I'm fully open to relocation.
 
-- 🎮 Adoro ver filmes e jogar nas horas vagas.
+- 🎮 I love watching movies and playing games in my free time.
 <br>
   
-## ✉️ Contato
+## ✉️ Contact
 
 - joaoribeiroslira@gmail.com
  <br>
