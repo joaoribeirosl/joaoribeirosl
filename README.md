@@ -2,19 +2,12 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World!</h1></summary>
+    <summary><h1 style="display: inline-block">Hello World!
+      <a href="https://github.com/joaoribeirosl/"><img src="https://komarev.com/ghpvc/?username=joaoribeirosl" alt="joaoribeirosl" /></a>
+    </h1></summary>
 </div>
 
-<div id="user-content-toc">
-  <ul align="left">
-    <summary>
-      <h2 style="display: inline-block">
-        Hello World!
-        <a href="https://github.com/joaoribeirosl/"><img src="https://komarev.com/ghpvc/?username=joaoribeirosl" alt="joaoribeirosl" /></a>
-      </h2>
-    </summary>
-  </ul>
-</div>
+
 
 <!-- Presentation -->
 
