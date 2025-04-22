@@ -34,7 +34,7 @@ I'm focused on:
 
 ## 🎯 Goal
 
-I'm looking for new professional opportunities.
+- I'm looking for new professional opportunities.
 <br>
 <br>
 
