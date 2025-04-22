@@ -77,6 +77,9 @@ I'm focused on:
 </a>
 <br>
 <br>
+
+
+<p align="center"><img align="center" src="https://github-trophies.vercel.app/?username=joaoribeirosl&column=6&theme=dracula" alt="joaoribeiroslTrophy" /></p>
   
 ## 🔥 Skills
 
