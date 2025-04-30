@@ -152,8 +152,7 @@ I'm focused on:
 <br>
 
 
-  
-![joaoribeirosl snake gif](https://github.com/joaoribeirosl/joaoribeirosl/blob/output/github-snake.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/joaoribeirosl/joaoribeirosl/output/github-contribution-grid-snake.svg)
 
 <!-- GIF -->
 
