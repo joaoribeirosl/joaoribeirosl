@@ -50,19 +50,20 @@ I'm focused on:
 ## ✉️ Contact
 
 - joaoribeiroslira@gmail.com
+
  <br>
  <br>
 </p>
 
-
-![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=joaoribeirosl&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
-    
 <!-- Links -->
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joaoribeiro_86/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ribeiro-7210841b9/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoribeiroslira@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaoribeiroslira@gmail.com) 
 
+
+![GitHub activity graph]( https://github-readme-activity-graph.vercel.app/graph?username=joaoribeirosl&theme=react-dark&area=true&hide_border=true#gh-light-mode-only)
+    
 
 <!--divisor-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
