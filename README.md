@@ -30,8 +30,8 @@
 ## 🎯 Goal
 
 - Now focused on growing in my current role, improving my technical skills, and contributing to impactful projects.
-<br>
-
+ <br>
+ 
 ## ⚡ Fun Facts
 
 - 🎮 I love watching movies and playing games in my free time.
