@@ -37,7 +37,7 @@ I'm focused on:
 
 ## 🎯 Goal
 
-- I'm looking for new professional opportunities.
+- Now focused on growing in my current role, improving my technical skills, and contributing to impactful projects.
 <br>
 
 ## ⚡ Fun Facts
