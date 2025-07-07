@@ -27,22 +27,12 @@
   <br>
   <br>
 
- ## 🌱 Currently
-
-I'm focused on:
-- Improving my software development skills.
-- Deepening my knowledge in Flutter to become a full-stack developer.
-  <br>
-  <br>
-
 ## 🎯 Goal
 
 - Now focused on growing in my current role, improving my technical skills, and contributing to impactful projects.
 <br>
 
 ## ⚡ Fun Facts
-
-- 💬 Although I'm based in Recife, I'm fully open to relocation.
 
 - 🎮 I love watching movies and playing games in my free time.
 <br>
