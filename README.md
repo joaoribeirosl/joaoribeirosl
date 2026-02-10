@@ -27,6 +27,12 @@
   <br>
   <br>
 
+## ☁️ Cloud & AWS (Learning & Practice)
+
+- Currently studying and practicing **Amazon Web Services (AWS)**, focusing on cloud fundamentals and real-world usage.
+- Hands-on experience with deploying applications, managing infrastructure, and understanding cloud costs and monitoring.
+
+
 ## 🎯 Goal
 
 - Now focused on growing in my current role, improving my technical skills, and contributing to impactful projects.
@@ -100,6 +106,12 @@
   <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white">
   <img align="center" alt="SpringBoot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
 </div>
+
+### ☁️ Cloud & Infrastructure
+<div>
+  <img align="center" src="https://img.shields.io/badge/AWS-Amazon_Web_Services-232F3E?style=for-the-badge&logo=amazon-web-services&logoColor=FF9900" alt="AWS Badge" />
+</div>
+
 
 ### 🛢️ Databases & ORMs
 <div>
