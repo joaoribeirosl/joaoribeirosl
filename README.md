@@ -83,7 +83,7 @@
 ### 💻 Programming Languages
 <div>
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img align="center" alt="Go" src="https://img.shields.io/badge/Go-007ACC?style=for-the-badge&logo=go&logoColor=white">
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
