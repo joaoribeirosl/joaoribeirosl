@@ -15,7 +15,7 @@
   
   ## 👋 About Me 
 
-  Hi! My name is João Ribeiro, I'm a 25-year-old software developer currently living in Recife, Brazil.
+  Hi! My name is João Ribeiro, I'm a 26-year-old software developer currently living in Recife, Brazil.
   <br>
   <br>
 
