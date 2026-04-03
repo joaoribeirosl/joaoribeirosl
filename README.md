@@ -3,7 +3,6 @@
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">Sample text
-      <a href="https://github.com/joaoribeirosl/"><img src="https://komarev.com/ghpvc/?username=joaoribeirosl" alt="joaoribeirosl" /></a>
     </h1></summary>
 </div>
 
@@ -15,7 +14,7 @@
   
   ## 👋 About Me 
 
-  Hi! My name is João Ribeiro, I'm a 26-year-old software developer currently living in Recife, Brazil.
+  Hi! My name is João Ribeiro, I'm a 26-year-old software developer currently living in Recife, Brazil. 
   <br>
   <br>
 
