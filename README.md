@@ -26,7 +26,7 @@
   <br>
   <br>
 
-## ☁️ Cloud & AWS (Learning & Practice)
+## ☁️ Cloud & AWS
 
 - Currently studying and practicing **Amazon Web Services (AWS)**, focusing on cloud fundamentals and real-world usage.
 - Hands-on experience with deploying applications, managing infrastructure, and understanding cloud costs and monitoring.
