@@ -31,11 +31,6 @@
 - Currently studying and practicing **Amazon Web Services (AWS)**, focusing on cloud fundamentals and real-world usage.
 - Hands-on experience with deploying applications, managing infrastructure, and understanding cloud costs and monitoring.
 
-
-## 🎯 Goal
-
-- Now focused on growing in my current role, improving my technical skills, and contributing to impactful projects.
- <br>
  
 ## ⚡ Fun Facts
 
